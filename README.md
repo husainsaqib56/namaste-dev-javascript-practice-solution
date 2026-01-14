@@ -12,6 +12,7 @@ This repository contains solutions to various JavaScript practice problems.
 - [06-voting-eligibility.js](06-voting-eligibility.js) - Checks if a person is eligible to vote based on their age
 - [07-count-negative.js](07-count-negative.js) - Counts the number of negative numbers in an array
 - [08-max-subarray.js](08-max-subarray.js) - Finds the maximum sum of a contiguous subarray (Kadane's algorithm)
+- [09-is-power-of-two.js](09-is-power-of-two.js) - Checks if a number is a power of two using bitwise operations
 
 ---
 
