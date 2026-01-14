@@ -1,0 +1,27 @@
+function countEvens(arr) {
+  if (!Array.isArray(arr)) {
+    return false;
+  }
+
+  if (arr.length === 0) {
+    return 0;
+  }
+
+  let count = 0;
+
+  for (let i = 0; i < arr.length; i++) {
+    const val = arr[i];
+
+    if (typeof val !== "number" || !Number.isFinite(val)) {
+      return false;
+    }
+
+    if (Number.isInteger(val) && val % 2 === 0) {
+      count++;
+    }
+  }
+
+  return count;
+}
+
+module.exports = { countEvens };
