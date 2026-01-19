@@ -14,6 +14,7 @@ This repository contains solutions to various JavaScript practice problems.
 - [08-Find Maximum Sub Array](08-max-subarray.js) - Finds the maximum sum of a contiguous subarray (Kadane's algorithm)
 - [09-Check if Power of Two](09-is-power-of-two.js) - Checks if a number is a power of two using bitwise operations
 - [10-Sum of All Numbers in Array](10-sub-of-all-numbers.in-in-array.js) - Calculates the sum of all numbers in an array using recursion and reduce
+- [11-Largest Number Formed](11-largest-num-formed.js) - Write a function that arranges a list of non-negative integers to form the largest posible number
 
 ---
 
