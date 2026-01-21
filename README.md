@@ -15,6 +15,8 @@ This repository contains solutions to various JavaScript practice problems.
 - [09-Check if Power of Two](09-is-power-of-two.js) - Checks if a number is a power of two using bitwise operations
 - [10-Sum of All Numbers in Array](10-sub-of-all-numbers.in-in-array.js) - Calculates the sum of all numbers in an array using recursion and reduce
 - [11-Largest Number Formed](11-largest-num-formed.js) - Write a function that arranges a list of non-negative integers to form the largest posible number
+- [12-Make Counter Function](12-make-counter.js) - Write a function that returns counter object with methods to increment, decrement and reset
+- [13-Custom Sort](13-custom-sort.js) - Sorts a mixed array of strings and numbers by separating them and sorting individually, then combining them
 
 ---
 
