@@ -17,6 +17,7 @@ This repository contains solutions to various JavaScript practice problems.
 - [11-Largest Number Formed](11-largest-num-formed.js) - Write a function that arranges a list of non-negative integers to form the largest posible number
 - [12-Make Counter Function](12-make-counter.js) - Write a function that returns counter object with methods to increment, decrement and reset
 - [13-Custom Sort](13-custom-sort.js) - Sorts a mixed array of strings and numbers by separating them and sorting individually, then combining them
+- [14-Count Vowels](14-count-vowels.js) - Counts the number of vowels in a string using a Set for efficient lookup
 
 ---
 
