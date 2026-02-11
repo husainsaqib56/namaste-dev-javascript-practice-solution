@@ -19,6 +19,14 @@ This repository contains solutions to various JavaScript practice problems.
 - [13-Custom Sort](13-custom-sort.js) - Sorts a mixed array of strings and numbers by separating them and sorting individually, then combining them
 - [14-Count Vowels](14-count-vowels.js) - Counts the number of vowels in a string using a Set for efficient lookup
 - [15-Reverse Words](15-reverse-words.js) - Reverses the characters in each word while keeping the word order intact
+- [16-Find Missing Number](16-find-missing-number.js) - Finds the missing number in an array of consecutive integers
+- [17-Sum of All Natural Numbers](17-sum-of-all-natural-numbers.js) - Calculates the sum of all natural numbers from 0 to n
+- [18-Factorial Number](18-factorial-number.js) - Calculates the factorial of a number using recursion
+- [19-Fibonacci Series](19-fibonacci-series.js) - Generates a Fibonacci series up to n terms
+- [20-Max Subarrays](20-max-subarrays.js) - Finds maximum sum subarray problem
+- [21-Remove Duplicates from Array](21-remove-duplicates-from-array.js) - Removes duplicate elements from an array
+- [22-Array Chunking](22-array-chunking.js) - Splits an array into chunks of specified size
+- [23-Power of Two](23-power-of-two.js) - Checks if a number is a power of two using bitwise operations
 
 ---
 
