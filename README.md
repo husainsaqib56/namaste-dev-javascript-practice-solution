@@ -18,6 +18,7 @@ This repository contains solutions to various JavaScript practice problems.
 - [12-Make Counter Function](12-make-counter.js) - Write a function that returns counter object with methods to increment, decrement and reset
 - [13-Custom Sort](13-custom-sort.js) - Sorts a mixed array of strings and numbers by separating them and sorting individually, then combining them
 - [14-Count Vowels](14-count-vowels.js) - Counts the number of vowels in a string using a Set for efficient lookup
+- [15-Reverse Words](15-reverse-words.js) - Reverses the characters in each word while keeping the word order intact
 
 ---
 
