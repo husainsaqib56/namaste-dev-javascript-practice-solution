@@ -27,6 +27,8 @@ This repository contains solutions to various JavaScript practice problems.
 - [21-Remove Duplicates from Array](21-remove-duplicates-from-array.js) - Removes duplicate elements from an array
 - [22-Array Chunking](22-array-chunking.js) - Splits an array into chunks of specified size
 - [23-Power of Two](23-power-of-two.js) - Checks if a number is a power of two using bitwise operations
+- [24-Make Counter](24-make-counter.js) - Returns a counter object with methods to increment, decrement, and reset
+- [25-Find Largest Number](25-find-largest-number.js) - Finds the largest number in an array with input validation
 
 ---
 
